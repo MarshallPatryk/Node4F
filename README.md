@@ -12,3 +12,6 @@ dodatkowo: kolor(np. 20M), rozmiar(np. XL)
 
 ## Pobieranie danych z bazy z danego salonu (GET)
 173.249.20.230:3000/salon/gd12
+
+## Usuwanie danych z bazy z danego salonu (DELETE)
+173.249.20.230:3000/salon/gd12
