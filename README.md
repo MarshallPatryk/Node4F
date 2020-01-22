@@ -1,5 +1,8 @@
 # Node4F
 
+Projekt bazuje na API udostępnionym dla pracowników 4F. Projekt powstał w zamiarze ułatwienia pracy na salonach sklepów. 
+
+
 ## Pobieranie danych o danym modelu (GET)
 173.249.20.230:3000/product/m/BLM301?salon=gd8 <br>
 dodatkowo: kolor(np. 20S), rozmiar(np. XL) <br>
