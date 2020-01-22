@@ -1,7 +1,7 @@
 # Node4F
 
 ## Pobieranie danych o danym modelu (GET)
-173.249.20.230:3000/product/m/BLM301?salon=gd8
+173.249.20.230:3000/product/m/BLM301?salon=gd8 <br>
 dodatkowo: kolor(np. 20M), rozmiar(np. XL)
 
 ## Pobieranie danych o produkcie o danym kodzie (GET)
